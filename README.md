@@ -1,1 +1,1 @@
-These are some Data Mining and Machine Learning codes made by me.
+These are some Data Mining and Machine Learning programs made by me.
